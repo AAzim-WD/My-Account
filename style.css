@@ -2,7 +2,7 @@
     padding: 60px;
 }
 #transaction-area {
-    /* display: none; */
+    display: none;
 }
 p {
     text-align: center;
